@@ -1,0 +1,7 @@
+active-lying
+active-standing
+drinking
+feeding
+nonactive-lying
+nonactive-standing
+ruminating
