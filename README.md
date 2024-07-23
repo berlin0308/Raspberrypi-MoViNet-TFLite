@@ -31,4 +31,4 @@ python3 classify.py --model models/a1_v2_stream_b16_lr0.0001_g1.5_d0.5_92/a1_flo
 
 | Model ID | Quantization | Model Path | Latency (RPi4 / 64-bit / 4-thread) | F1-score |
 |----------|--------------|------------|---------------------------|----------|
-| A0 | INT8 | 
+| A0 | INT8 | models/a0_v5_stream_b16_lr0.0004_g2.0_d0.1_sd0.0_92/a0_int8.tflite
