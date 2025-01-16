@@ -4,7 +4,7 @@
 ## 1. Download Code Example
 
 ```
-git clone https://github.com/berlin0308/raspberrypi-tflite-movinet --depth 1
+git clone https://github.com/berlin0308/Raspberrypi-MoViNet-TFLite.git --depth 1
 ```
 
 ## 2. Install Python Packages
