@@ -30,7 +30,7 @@ python3 classify.py --model models/a1_v2_stream_b16_lr0.0001_g1.5_d0.5_918/a1_fl
 | Model ID | Quantization | Model Path (* Recommended) | Latency | F1-score |
 |----------|--------------|------------|---------------------------|----------|
 | A0 | Int8 | models/a0_v5_stream_b16_lr0.0004_g2.0_d0.1_sd0.0_92/a0_int8.tflite | 35 ms | 0.312 |
-| ***A0*** | ***Float16*** |***models/a0_v5_stream_b16_lr0.0004_g2.0_d0.1_sd0.0_92/a0_float16.tflite****| ***47 ms*** | ***0.916*** |
+| A0 | Float16 |models/a0_v5_stream_b16_lr0.0004_g2.0_d0.1_sd0.0_92/a0_float16.tflite| 47 ms | 0.916 |
 | A1 | Int8 | models/a1_stream_b16_lr0.0001_g1.5_d0.5_918/a1_int8.tflite | 49 ms | 0.579 |
 | A1 | Float16 | models/a1_stream_b16_lr0.0001_g1.5_d0.5_918/a1_float16.tflite | 98 ms | 0.918 |
 | A2 | Int8 | models/a2_stream_b16_lr0.0004_g1.2_d0.5_sd0.3_929/a2_int8.tflite | 78 ms | 0.764 |
